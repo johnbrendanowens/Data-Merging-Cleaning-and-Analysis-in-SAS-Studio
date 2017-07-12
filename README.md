@@ -1,2 +1,2 @@
 # Data-Merging-Cleaning-and-Analysis-in-SAS-Studio
-This is a project that I did in the Spring of 2017 for the graduate course, Statistical Computing. 
+This is a project that I did in the Spring of 2017 for the graduate course, Statistical Computing. This project involved importing several files of health realted data, merging the files, cleaning the new data set, and then creating new variables. Once the data was cleaned and organized, I conducted several statistical tests of it. I gathered descriptive statistics, computed t-tests, non-parametric tests, and chi-square tests. I also created several graphs and tables in the statistical analysis. 
